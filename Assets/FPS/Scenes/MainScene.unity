@@ -612,8 +612,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3924268324144242228, guid: fbf7374bd2cc7684ba866568a69362b7,
         type: 3}
+      propertyPath: ShootType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3924268324144242228, guid: fbf7374bd2cc7684ba866568a69362b7,
+        type: 3}
       propertyPath: AimOffset.y
       value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3924268324144242228, guid: fbf7374bd2cc7684ba866568a69362b7,
+        type: 3}
+      propertyPath: AimZoomRatio
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3924268324144242228, guid: fbf7374bd2cc7684ba866568a69362b7,
+        type: 3}
+      propertyPath: AmmoReloadRate
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 3924268324144242228, guid: fbf7374bd2cc7684ba866568a69362b7,
         type: 3}
